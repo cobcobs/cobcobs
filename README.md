@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jacob-ethan
-- 👀 Math and Computer Science Nerd
+- 👋 Hello hello, I’m @jacob-ethan
+- 👀 Math and Computer Science nerd
 - 🌱 I like learning about whatever pops up in my YouTube recommendations
 
 <!---
