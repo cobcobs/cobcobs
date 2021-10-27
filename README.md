@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacob-ethan
-- 👀 I’m interested in programming and mathematics
-- 🌱 I’m currently learning calculus and quaternions
+- 👀 Math and Computer Science Nerd
+- 🌱 I like learning about whatever pops up in my YouTube recommendations
 
 <!---
 jacob-ethan/jacob-ethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
