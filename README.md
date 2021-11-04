@@ -8,6 +8,7 @@ I'm a math and computer science nerd in high school. I usually edit my dotfiles 
 - 🐍 Python
 - 🌊 C / C++
 - 🐚 Shell scripting
+- 🤡 Procrastinating
 
 <!---
 jacob-ethan/jacob-ethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
