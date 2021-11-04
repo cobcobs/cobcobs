@@ -6,7 +6,7 @@ I'm a math and computer science nerd in high school. I usually edit my dotfiles 
 
 # Skills
 - 🐍 Python
-- 🇨 C / C++
+- 🌊 C / C++
 - 🐚 Shell scripting
 
 <!---
