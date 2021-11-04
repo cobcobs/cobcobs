@@ -13,6 +13,9 @@ I'm a math and computer science nerd in high school. I usually edit my dotfiles 
 # GitHub Stats
 [![@jacob-ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-ethan&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-ethan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 jacob-ethan/jacob-ethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
