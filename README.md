@@ -11,9 +11,9 @@ I'm a math and computer science nerd in high school. I usually edit my dotfiles 
 - 🤡 Procrastinating
 
 # GitHub Stats
-[![@jacob-ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-ethan&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![@jacob-ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-ethan&show_icons=true&theme=gruvbox&bg_color=262729&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-ethan&layout=compact&custom_title=Languages&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-ethan&layout=compact&custom_title=Languages&theme=gruvbox&bg_color=262729&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Codewars Stats
 [![Codewars](https://github.r2v.ch/codewars?user=jacob-ethan&name=true)](https://www.codewars.com/users/jacob-ethan)
