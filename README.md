@@ -2,7 +2,7 @@
 
 I’m @jacob-ethan :D
 
-I'm a math and computer science nerd in high school. I usually edit my dotfiles or grind on Codewars rather than working on an actual project 😄. I also like spending time learning about whatever pops up in my YouTube recommendations.
+I'm a math and computer science nerd in high school. I usually edit my dotfiles instead of doing actual work 😄. I also like spending time learning about whatever pops up in my YouTube recommendations.
 
 # Skills
 - 🐍 Python
