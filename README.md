@@ -1,6 +1,6 @@
 # Hello hello 👋
 
-I’m @jacob-ethan :D
+I’m @cobcobs :D
 
 # GitHub Stats
 [![@jacob-ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cobcobs&show_icons=true&title_color=f1f5f3&bg_color=262729&text_color=bb422c&icon_color=ecb614&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
